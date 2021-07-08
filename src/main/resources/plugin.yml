@@ -1,0 +1,6 @@
+name: FirstMemoryNetworkKota
+version: 1.0
+main: me.kota.firstmemorynetworkkota.Main
+api-version: 1.16
+depend: [ RPGCoreAPI ]
+authors: [ Kota ]
